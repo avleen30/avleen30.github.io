@@ -1,1 +1,5 @@
-main.css
+.img-responsive {
+    border-radius: 8em;
+    height: 12em;
+    width: 12em;
+}
