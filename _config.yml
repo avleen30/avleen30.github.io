@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Web Developer
+email: avleen3@gmail.com
+url: https://avleen30.github.io/
+description: "Full-stack Web Developer based out of Toronto, Canada"
+keywords: "Web Developer, Web, Canada, Toronto, Full-stack, Javascript, Ruby, Rails"
+skills: "Web Developer - User Experience Designer"
+meta_author: Dhaliwal Avleen
 
 # Google webmaster tools
 google_verify:
@@ -41,19 +41,14 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/avleendhaliwal/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/avleen30
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Toronto, ON, Canada
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
