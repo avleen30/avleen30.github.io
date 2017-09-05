@@ -2,11 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: chatty_app.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: September 2017
+Project: Lighthouse-Labs
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: A simple single-page AJAX based Twitter clone that uses jQuery, HTML5, and CSS3 <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>.
 
 ---

@@ -5,7 +5,8 @@ date: 2014-07-18
 img: BEA_Games.png
 alt: image-alt
 project-date: September 2017
+Project: Lighthouse-Labs
 category: Web Development
-description: Multiplayer Card Game built as a mid-term team project using Node, Express, jQuery, Bootstrap3, SASS and AJAX <a href="https://github.com/EmanuelN/cardgamesmidterm">Flat Icons</a>.
+description: A web app that allows players to play various card games against other players. Built with Node, express, jQuery and PostgreSQL <a href="https://github.com/EmanuelN/cardgamesmidterm">GitHub Link</a>.
 
 ---
