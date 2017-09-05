@@ -7,6 +7,6 @@ alt: image-alt
 project-date: September 2017
 Project: Lighthouse-Labs
 category: Web Development
-description: A simple single-page AJAX based Twitter clone that uses jQuery, HTML5, and CSS3 <a href="https://github.com/avleen30/chattyapp">Flat Icons</a>.
+description: A simple single-page AJAX based Twitter clone that uses jQuery, HTML5, and CSS3 <a href="https://github.com/avleen30/chattyapp">GitHub Link</a>.
 
 ---
