@@ -7,6 +7,6 @@ alt: image-alt
 project-date: September 2017
 Project: Lighthouse-Labs
 category: Web Development
-description: An e-commerce Rails app built for learning Rails through example <a href="https://github.com/avleen30/jungle-rails">GitHub Link</a>.
+description: An e-commerce Rails app built for learning Rails through example <a href="https://github.com/avleen30/jungle-rails"><br>GitHub Link</a>.
 
 ---
