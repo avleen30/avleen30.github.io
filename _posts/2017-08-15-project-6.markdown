@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2017-09-15
+img: chatty_app.png
+alt: image-alt
+project-date: September 2017
+project: Lighthouse-Labs
+category: Web Development
+description: A simple single-page AJAX based Twitter clone that uses jQuery, Web Sockets, HTML5, and CSS3 <a href="https://github.com/avleen30/chattyapp"><br>GitHub Link</a>.
+
+---
