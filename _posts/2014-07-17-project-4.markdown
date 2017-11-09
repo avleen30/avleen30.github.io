@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-07-17
+modal-id: 4
+date: 2017-09-17
 img: jungle_rails.png
 alt: image-alt
 project-date: September 2017
