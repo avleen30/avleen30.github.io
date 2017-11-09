@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-11-10
-img: Home.png
+img: InstaClone.png
 alt: image-alt
 project-date: November 2017
 project: InstaClone
