@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2016-12-18
+img: VicWestPetHospital.png
+alt: image-alt
+project-date: January 2017
+project: Vic West Pet Hospital
+category: Web Development
+description: Wrote the content and built the website for a veterinary clinic in Victoria, British Columbia.
+ <a href="https://www.vicwestpethospital.com/"><br>Link</a>.
+
+---
