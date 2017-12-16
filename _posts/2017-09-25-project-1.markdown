@@ -7,7 +7,7 @@ alt: image-alt
 project-date: September 2017
 project: Lighthouse-Labs
 category: Web Development
-description: Experiences is a social app that allows you to create or join experiences closeby. <br/> Built using Ruby on Rails, PostgreSQL, jQuery HTML5, Materialize and CSS3
+description: Experiences is a social app that allows you to create or join experiences closeby. Built using Ruby on Rails, PostgreSQL, jQuery HTML5, Materialize and CSS3
 <a href="https://github.com/avleen30/experiences_app#experiences-is-a-social-app-that-allows-you-to-create-or-join-experiences-close-by"><br>GitHub Link</a>.
 
 ---
